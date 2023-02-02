@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Future of Ethereum"
 date:   2023-02-01 23:10:05 +0800
 categories: ethereum
