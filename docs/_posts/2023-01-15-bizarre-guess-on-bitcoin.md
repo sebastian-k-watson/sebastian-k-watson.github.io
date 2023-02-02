@@ -1,6 +1,6 @@
 ---
 title: "A Bizarre Guess on Bitcoin"
-date:   2023-02-01 23:10:05 +0800
+date:   2023-01-15 23:10:05 +0800
 categories: bitcoin
 ---
 
