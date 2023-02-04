@@ -4,6 +4,8 @@ date:   2023-01-15 23:10:05 +0800
 categories: bitcoin
 ---
 
+![Market image](/assets/images/bitcoin_poster.png)
+
 Making predictions about the future of Bitcoin is always a tricky and uncertain task, but it can be fun to explore some more unconventional and out-of-the-box scenarios. So, let's take a step away from conventional wisdom and make some wild guesses about what might happen to Bitcoin in the future.
 
 One bizarre scenario is that Bitcoin becomes a widely-accepted form of currency in a post-apocalyptic world. In this scenario, governments have fallen and currencies have become worthless, but Bitcoin, with its decentralized and secure blockchain, has become a valuable and trusted form of currency. People trade goods and services using Bitcoin and it becomes the de facto standard for transactions in a world without traditional financial systems.

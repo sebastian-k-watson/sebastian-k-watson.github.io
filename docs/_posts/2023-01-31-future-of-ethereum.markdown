@@ -1,8 +1,10 @@
 ---
 title: "Future of Ethereum"
-date:   2023-02-01 23:10:05 +0800
+date:   2023-01-31 23:10:05 +0800
 categories: ethereum
 ---
+
+![Market image](/assets/images/prediction.png)
 
 Making predictions about the future of Ethereum, or any cryptocurrency for that matter, is a challenging task, as the market is highly volatile and subject to rapid changes. However, it's possible to make some informed guesses based on current trends and developments in the space.
 

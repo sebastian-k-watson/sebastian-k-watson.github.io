@@ -4,6 +4,8 @@ date:   2023-02-02 00:00:00 +0800
 categories: bitcoin
 ---
 
+![Market image](/assets/images/bitcoin_up.png)
+
 The recent increase in the price of Bitcoin can be attributed to several key factors, including:
 
 Increased institutional adoption: There has been a growing trend of institutional investors and corporations investing in Bitcoin, driving up demand and contributing to its price rise. Major corporations such as Tesla and Square have invested in Bitcoin, signaling a shift towards greater mainstream adoption.

@@ -4,6 +4,8 @@ date:   2021-12-02 00:00:00 +0800
 categories: defi
 ---
 
+![Market image](/assets/images/three.png)
+
 As of my knowledge cutoff in 2021, the top 3 DeFi services in the market are:
 
 Uniswap - A decentralized exchange that allows for automated trading of ERC-20 tokens and operates as a liquidity pool where users can provide liquidity and earn trading fees.
