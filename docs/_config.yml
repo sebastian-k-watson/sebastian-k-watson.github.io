@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Sebastian K. Watson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/pp2.png"
   bio              : "Cryptocurrency. Adventure. Life."
   location         : "Toronto, Canada"
   email            :
